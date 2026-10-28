@@ -1,0 +1,7 @@
+-r requirements.txt
+# Optional real pretrained-model workflow. Install in the same virtual environment.
+transformers>=4.46,<6
+peft>=0.14,<1
+accelerate>=1,<2
+safetensors>=0.4
+# For the optional NVIDIA QLoRA branch: pip install bitsandbytes

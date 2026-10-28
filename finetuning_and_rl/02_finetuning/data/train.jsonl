@@ -1,0 +1,8 @@
+{"prompt": "What is a gradient?", "response": "A gradient gives the direction and rate of steepest increase of a function."}
+{"prompt": "What is fine-tuning?", "response": "Fine-tuning updates a pretrained model using data for a target task."}
+{"prompt": "What is a reward?", "response": "A reward is feedback from an environment after an action."}
+{"prompt": "What is a policy?", "response": "A policy maps observations to actions or action probabilities."}
+{"prompt": "What is overfitting?", "response": "Overfitting means fitting training data without generalizing well to unseen data."}
+{"prompt": "What is LoRA?", "response": "LoRA trains low-rank weight updates while keeping the original weights frozen."}
+{"prompt": "What is a batch?", "response": "A batch is a group of examples processed together."}
+{"prompt": "What is a learning rate?", "response": "The learning rate controls the size of parameter updates."}

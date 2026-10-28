@@ -1,0 +1,9 @@
+# Top-level package versions used for the recorded CPU verification.
+# For a CPU-only wheel, install torch from the CPU index first (see README).
+# This is a reproducible version snapshot, not a full transitive lockfile.
+torch==2.14.0
+numpy==2.5.3
+transformers==5.17.0
+peft==0.21.0
+accelerate==1.15.0
+safetensors==0.8.0

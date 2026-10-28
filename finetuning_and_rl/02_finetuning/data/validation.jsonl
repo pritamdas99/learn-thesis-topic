@@ -1,0 +1,2 @@
+{"prompt": "Explain a policy in simple words.", "response": "A policy is the rule an agent uses to choose actions."}
+{"prompt": "Why keep validation data separate?", "response": "Separate validation data helps estimate performance on unseen examples."}

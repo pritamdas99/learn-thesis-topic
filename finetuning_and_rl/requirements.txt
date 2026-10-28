@@ -1,0 +1,5 @@
+# Core tensor examples use PyTorch; NumPy avoids optional integration warnings.
+# Standard-library examples need no packages.
+# Tested versions are recorded in VERIFICATION.md; this range is not a lockfile.
+torch>=2.3,<3
+numpy>=1.26,<3
